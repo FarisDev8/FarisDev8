@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farisdev8&show_icons=true&locale=en" alt="farisdev8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farisdev8&" alt="farisdev8" /></p>
+
+
+[![FarisDev8's GitHub | Stats](https://stats.quine.sh/FarisDev8/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarisDev8)
